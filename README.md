@@ -9,7 +9,7 @@ A ReactJS project from NLW powered by Rocketseat. 🚀
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 
-## 💻 Getting started
+## Getting started
 
 ### Requirements
 
