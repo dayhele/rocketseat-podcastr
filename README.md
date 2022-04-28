@@ -18,7 +18,7 @@ A ReactJS project from NLW powered by Rocketseat. 🚀
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/dayhele/rocketseat-podcastr.git && cd podcastr
 ```
 
 **Follow the steps below**
