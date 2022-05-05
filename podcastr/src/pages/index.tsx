@@ -65,20 +65,20 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
         <h2>Todos os episódios</h2>
         <table cellSpacing={0}>
           <thead>
-          <tr>
-            <th>podcast</th>
-            <th>Integrantes</th>
-            <th>Data</th>
-            <th>Duração</th>
-            <th></th>
-          </tr>
+            <tr>
+              <th>podcast</th>
+              <th>Integrantes</th>
+              <th>Data</th>
+              <th>Duração</th>
+              <th></th>
+            </tr>
           </thead>
-          
+
           <tbody>
             {allEpisodes.map((episode) => {
               return (
                 <tr key={episode.id}>
-                  <td style={{width: 72}}>
+                  <td style={{ width: 72 }}>
                     <Image
                       src={episode.thumbnail}
                       alt={episode.title}
@@ -91,7 +91,7 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
                     <a href="">{episode.title}</a>
                   </td>
                   <td>{episode.members}</td>
-                  <td style={{width: 100}}>{episode.publishedAt}</td>
+                  <td style={{ width: 100 }}>{episode.publishedAt}</td>
                   <td>{episode.durationAsString}</td>
                   <td>
                     <button type="button">
