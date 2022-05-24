@@ -5,9 +5,10 @@ A ReactJS project from NLW powered by Rocketseat. 🚀
 
 ## Technologies used:
 
-- [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
+- [Sass](https://sass-lang.com/)
+- [Axios](https://axios-http.com/ptbr/)
 
 ## Getting started
 
