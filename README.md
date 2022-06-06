@@ -1,16 +1,16 @@
-# Podcastr
+# Podcastr 🎧
 
 Podcastr is a plataform built to broadcast a especific podcast (Faladev).
 A ReactJS project from NLW powered by Rocketseat. 🚀
 
-## Technologies used:
+## Technologies used 👩🏻‍💻
 
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
 - [Axios](https://axios-http.com/ptbr/)
 
-## Getting started
+## Getting started 🪜
 
 ### Requirements
 
@@ -37,8 +37,8 @@ $ yarn dev
 
 The app will be available for access on your browser at `http://localhost:3000`
 
-## Contributing
+## Contributing 🤝
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
+## License 🖊️
 [MIT](https://choosealicense.com/licenses/mit/)
